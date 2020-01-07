@@ -1,6 +1,12 @@
 A Simple Widget to control your Youtube channel and your Social Media created by using the RainMeter API.
 
-How to use: 1- Download https://www.rainmeter.net/ 2- Run the Fadrik Channel Controller_1.0.rmskin 3- Done.
+How to use:
+
+1- Download https://www.rainmeter.net/
+
+2- Run the Fadrik Channel Controller_1.0.rmskin
+
+3- Done.
 
 How to modify it to your Channel: (right-click on the Widget then edit skin)
 
